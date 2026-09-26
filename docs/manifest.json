@@ -1,8 +1,8 @@
 {
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-26",
   "effective": "August 2, 2026 – October 31, 2026",
   "new_item_book": "2026-09-06",
-  "products": 14858,
-  "bytes": 4910595,
-  "sha256": "246cc9cb9a3d6cae0772417df52c79c35110912849444af65a80d185a5e6f863"
+  "products": 14831,
+  "bytes": 4895738,
+  "sha256": "fd4ad258c90e27f1454ed071f12e24c8c1af0be391919c041991019558537e41"
 }
